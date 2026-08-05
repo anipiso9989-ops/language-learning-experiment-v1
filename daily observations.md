@@ -47,3 +47,7 @@
 >  - Verb forms/tenses: _era_ (Spanish) instead of _était_ (imperfect); _veux_ instead of _veut_ (3rd person); _Allait-t-elle_ has an extra _-t-_ (_Allait-elle_)
 >  - Missing accents & typos: _anee_ (_année_), _a_ (_à_), _espere_ (_espère_), _mere_ (_mère_), _achete_ (_achète_), _affames_ (_affamés_)
 >  - Gender/Agreement: _un nouveaux_ with a feminine noun (_une nouvelle robe_); _sa_ before masculine _ordinateur_ (_son ordinateur_)
+
+> Tuesday, 8/4/26
+> 
+> Today I did not do any language practice. Rather, today I started the process of building the resource which I'm using for speaking practice. It is not yet finished, but I expect to finish it by Thursday.
