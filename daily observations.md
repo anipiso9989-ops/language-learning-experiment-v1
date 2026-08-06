@@ -51,3 +51,15 @@
 > Tuesday, 8/4/26
 > 
 > Today I did not do any language practice. Rather, today I started the process of building the resource which I'm using for speaking practice. It is not yet finished, but I expect to finish it by Thursday.
+
+> Wednesday, 8/5/26
+> 
+> I finished the resource by which I'm supposed to do speaking practice. I built a wrapper that combines a multi-lingual language model, a text-to-speech program, and a speech-to-text model, to create a unified resource that allows me to talk in real time, theoretically, at least. My computer isn't good enough to run the project, so I had to make a change to the resources list (document in the changes file), and switch over to Gemini. 
+> 
+> But anyways, today's experimental results are recorded below. Wednesday means vocabulary review on LingQ.
+> 
+> For Spanish, I noticed that I am perhaps a little bit lazy. Maybe it's because I have more experience with it, having done it for 4 years, but I definitely need to resolve this personal obstacle and treat it like I'm a total beginner. If I don't, I'm gonna continue making these small little silly mistakes (like forgetting when to use imperfect tense vs preterite tense) and not make as much progress as I could otherwise. I don't really have any other notes about today's Spanish vocabulary practice, except that I learned today that the placement of accents serves to elongate or emphasize that specific letter of a word. A cool thing that happened today is that I got my badge for 1000 known Spanish words on LingQ, though.
+> 
+> For Norwegian, it went fine considering I'm a beginner. I noticed that a good amount of verbs and adjectives start with "b", but that could just be the selection of words that I am currently being exposed to as I'm learning. Not much notes here, but I am beginning to start the grammar more and more.
+> 
+> French was similar; not anything special, but I am making progress on remembering words.
