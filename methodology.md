@@ -4,7 +4,7 @@
 - **Session length:** 15 or 45 minutes.
 - **Weekdays:** Minimum of three 15-minute sessions.
     - Mon/Thu: Writing (Gemini)
-    - Tue/Fri: Speaking (Tiny Aya + TTS)
+    - Tue/Fri: Speaking (Tiny Aya + TTS / Gemini)
     - Wed: Vocabulary review (LingQ)
 - **Weekends:** Three 45-minute sessions.
     - 30 min: Reading/listening (LingQ)
@@ -14,7 +14,7 @@
 # Learning Resources
 - **LingQ:** Grammar, vocabulary, reading, listening, and spaced repetition.
 - **Gemini:** Writing exercises and bidirectional translation.
-- **Tiny Aya + TTS:** Conversational speaking and listening practice.
+- **Tiny Aya + TTS  (Gemini now, will switch back when I get a more powerful laptop):** Conversational speaking and listening practice.
 
 # Learning Techniques
 - **Bidirectional Translation:** Translate proficiency-matched passages between the native and target language, followed by AI feedback. For each language, get a list of words that you're working on from LingQ by exporting the vocabulary, then upload it so the AI understands your level.
