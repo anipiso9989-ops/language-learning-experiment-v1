@@ -63,3 +63,40 @@
 > For Norwegian, it went fine considering I'm a beginner. I noticed that a good amount of verbs and adjectives start with "b", but that could just be the selection of words that I am currently being exposed to as I'm learning. Not much notes here, but I am beginning to start the grammar more and more.
 > 
 > French was similar; not anything special, but I am making progress on remembering words.
+
+> Thursday, 8/6/26. Today is writing practice day. 
+> 
+> For Spanish, I got 70% on Spanish → English, and 35% on English → Spanish. For Spanish → English, the mistakes I mainly just didn't get phrases right. For example, "ya que" = "since", and "un placer absoluto" = "an absolute pleasure".
+> For English → Spanish, I had these mistakes:
+> 	- mentioned = "mencionó"
+> 	- in fact = "al hecho"
+> 	- just = "acaba"
+> 	- forgot that while = "mientras", I already knew this word but forgot
+> 	- needed to use "estar" instead of "ser" with emotions: "ella *estaba* preocupada, no *era*"
+> 	- Note: I may need to review my Spanish grammar again; verb tenses & conjugation, especially. I'll do it tomorrow
+>
+> For Norwegian, I got 75% on Norwegian → English, and 60% on English → Norwegian (getting better).
+> For Norwegian → English, here's what I got wrong:
+> - "I kveld" = tonight
+> - "ba oss om å vente litt" = asked us to wait a bit
+> - "sto" = sat
+> - "snakket" = talked, not snacked
+> For English → Norwegian, here's what I got wrong:
+> - "asked for" = "ba om", not "spurte for"
+> - "different" in singular nouns = "et annet", not "forskellig(e)"
+> - "table" = "et bord"
+> - "window" = "vinduet"
+> - "something" = "noe"
+> 
+> For French, I got 70% on French → English, and 45% on English → French. 
+> For French → English, I got this wrong:
+> - "déjeuner" = breakfast, not trip
+> - "puis" = then, not but
+> - "Il *a* beaucoup de travail" means "he *has* a lot of work", not "he works a lot"
+> - "métier" = job/profession
+> For English → French, I got this wrong:
+> - used *parte* instead of *quitte* for leaving
+> - "maison" = house
+> - "lit", not "livre" = to read. "livre" = to deliver, or book
+> - used "a" instead of "au" multiple times for "to"
+> - "ordinateur" = computer
