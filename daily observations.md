@@ -100,3 +100,5 @@
 > - "lit", not "livre" = to read. "livre" = to deliver, or book
 > - used "a" instead of "au" multiple times for "to"
 > - "ordinateur" = computer
+
+> Friday, 8/7/26. Today I'm supposed to do speaking practice, but after trying it out I realized that my synthesis skills are not well developed enough to even make small talk, so I instead pivoted to practicing LingQ stories for 15 minutes per language. No specific notes, but generally speaking I'm seeing improvement in comprehension.
