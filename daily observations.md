@@ -102,3 +102,9 @@
 > - "ordinateur" = computer
 
 > Friday, 8/7/26. Today I'm supposed to do speaking practice, but after trying it out I realized that my synthesis skills are not well developed enough to even make small talk, so I instead pivoted to practicing LingQ stories for 15 minutes per language. No specific notes, but generally speaking I'm seeing improvement in comprehension.
+
+> Saturday, 8/8/26. Today I did 3 45 min sessions, 1 per language.
+> 
+> For Spanish, I found a new series called "La Historia de Espana", which is pretty interesting. I was able to understand it well because it was about A2-B1 in difficulty, but there were some words I needed to look up. No specific notes here, but progress is going well.
+> 
+> For Norwegian, I have no special notes. Nor do I have any for French. Progress is going well, though. I initially had my doubts about interlinguistic interference caused by the fact that I'm learning 3 languages and that could be overwhelming, but it's all working out.
