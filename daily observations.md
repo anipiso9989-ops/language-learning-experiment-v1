@@ -108,3 +108,5 @@
 > For Spanish, I found a new series called "La Historia de Espana", which is pretty interesting. I was able to understand it well because it was about A2-B1 in difficulty, but there were some words I needed to look up. No specific notes here, but progress is going well.
 > 
 > For Norwegian, I have no special notes. Nor do I have any for French. Progress is going well, though. I initially had my doubts about interlinguistic interference caused by the fact that I'm learning 3 languages and that could be overwhelming, but it's all working out.
+
+> Sunday, 8/9/26. No specific notes for Spanish, Norwegian, or French. I did LingQ grammar practice today, and I am starting to internalize the grammar of the languages I'm learning, setting the foundations for an intuitive understanding. That being said, progress is steady so far.
