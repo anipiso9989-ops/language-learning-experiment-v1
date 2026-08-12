@@ -110,3 +110,57 @@
 > For Norwegian, I have no special notes. Nor do I have any for French. Progress is going well, though. I initially had my doubts about interlinguistic interference caused by the fact that I'm learning 3 languages and that could be overwhelming, but it's all working out.
 
 > Sunday, 8/9/26. No specific notes for Spanish, Norwegian, or French. I did LingQ grammar practice today, and I am starting to internalize the grammar of the languages I'm learning, setting the foundations for an intuitive understanding. That being said, progress is steady so far.
+
+> Monday, 8/10/26. Today is a 15 min writing exercise per language. 
+> 
+> For Spanish, I got 80% on Spanish → English, and 65% on English → Spanish. 
+> For Spanish → English, I made these mistakes:
+> - **Word order:** "get early ready" $\rightarrow$ "get ready early".
+> - **Vocabulary choice:** "Me agrada" translates best to "I like / I enjoy" rather than "I appreciate".
+> - *Missed vocabulary:* "{bastante}" was left untranslated; it means "quite" or "fairly".
+> - **Omitted details:** "en la entrada" (_at the entrance_) and "al respecto" (_about it_) were omitted/misplaced in "I talked about it to someone [at the entrance]".
+> - *Preposition choice:* "por unos minutos" translates more naturally as "for a few minutes" rather than "some minutes".
+> For English → Spanish, I made these mistakes:
+> - **Spelling & Typos:** **al** bibloteca $\rightarrow$ **a la biblioteca**; returnar libres $\rightarrow$ **devolver unos libros**; perdir $\rightarrow$ **perder**; imediatamente $\rightarrow$ **i*n*mediatamente**.
+> - **Relative Pronoun:** "libres **que** alquilamos" (missing _que_).
+> - Grammar & Verb Tenses:
+    - **Hemos ahorrando** $\rightarrow$ **Hemos estado ahorrando** (_have been saving_).
+    - **por nuestros clases** $\rightarrow$ **para nuestras clases** (_for our classes_ - wrong preposition and gender).
+    - **preferemos** $\rightarrow$ **preferimos** (_we prefer_).
+    - **nos dice** $\rightarrow$ **nos dijo** (_told us_ - past tense).
+    - **ambos habitaciones... ocupado** $\rightarrow$ **ambas habitaciones... ocupadas** (_gender agreement_).
+    - **uno grupo {just} ha terminado** $\rightarrow$ **un grupo acababa de terminar** (_just finished_; untranslated word).
+    - **Nos aceptamos** $\rightarrow$ **Aceptamos** (_aceptar is not reflexive here_).
+    - **querimos** $\rightarrow$ **queríamos** (_we didn't want_ - imperfect tense).
+> 
+> For Norwegian, I got 55% on Norwegian → English, and 70% on Norwegian → English. 
+> For Norwegian → English, I made these errors:
+> - **"leligheten smol" → "en liten leilighet":** Misspelled _leilighet_ and used an invented word (_smol_) instead of _liten_
+> - **"Om klokken atte, han hadde" → "Klokken åtte har han":** _Om_ is unnecessary for telling time; word order requires verb second (_har han_); tense should be present perfect (_har_, not _hadde_); _åtte_ was misspelled.
+> - **"kjopte" → "kjøpt":** Past participle is _kjøpt_, not past tense _kjøpte_ (also missing _ø_).
+> - **"allergisk om skellig" → "allergisk mot kylling":** Preposition for allergic is _mot_, and _kylling_ (chicken) was misspelled.
+> - **"en varm badt" → "et varmt bad":** _Bad_ is a neuter noun (_et/varmt_), and _badt_ has a typo
+> - **"ville bade a ... a tenke om aret neste" → "vil både ... å tenke på neste år":** Mixed up _både_ (both) with _bade_ (to bathe); infinitive marker _å_ missing accent; prepositions for "think about" is _tenke på_; word order is _neste år_.
+> - **"Alle" → "Alt":** _Alle_ means "all people"; _Alt_ means "everything".
+> - **"behov ikke annet" → "trenger ikke noe annet":** _Behov_ is a noun ("need"), not the verb (_trenger_); missing _noe_ before _annet_.
+>  For English → Norwegian, I made these errors:
+>  - **"My friend and I just arrived at a restaurant the teacher told us..." → "My friends and I arrived at the restaurant right when the teacher asked us...":** _Vennene mine_ is plural ("My friends"); _ankom_ is simple past ("arrived"); _akkurat da_ translates to "right when" or "just as"; _ba_ means "asked/requested", not "told/saw".
+>  - **"...and saw an action film together" → "...to watch an action movie together":** _å se_ following _ba oss_ is an infinitive ("to watch"), not past tense ("saw").
+>  - **"all of the other ?" → "all the others thought":** _mente_ (thought/meant) was omitted; _de andre_ is "the others".
+>  - **"stretches... says" → "stretched... said":** Verb _strekket_ (stretched) is past tense, which sets the past tense context for the reported speech (_said_).
+>  
+>  For French, I got 60% on French → English, and 50% on English → French. 
+>  For French → English, I made these errors:
+>  - **Tense Choice:** Used the imperfect tense (_allait_, _achetait_) instead of the passé composé (_est allé_, _a acheté_) for completed past actions.
+>  - **Prepositions & Articles:** Missed _au magasin_ (used placeholder `{store}`), missed the accent on _à acheter_, and omitted partitive articles (_de la nourriture_).
+>  - **Spelling & Elision:** Written _beouf_ instead of _bœuf_, _poullion_ instead of _poulet_, and _parce que il_ instead of _parce qu'il_.
+>  - **Accents & Grammar:** Missing accents (_était_, _affamé_, _espère_, _santé_) and an unnecessary pronoun in _qu'il son_.
+>  For English → French, I made these errors:
+>  - **Tense Choice:** Translated present tense verbs (_adopte_, _achète_) into the past tense (_adopted_, _bought_).
+>  - **Vocabulary:** Translated _allume_ as "put on" instead of "turns on", and _se demande_ as "asked" instead of "wonders" / "asks herself".
+>  - **Final Sentence Misinterpretation:** Completely misread _"Il a déjà tout ce qu'il faut pour être heureux"_ ("He already has everything he needs to be happy").
+
+> Tuesday, 8/11/26. Today, I did Wednesday's exercise, which is 3x15 min LingQ vocab practice, for each language. I did this for 2 reasons:
+> 1. I am not yet good enough at the languages I'm learning to have a coherent conversation
+> 2. Tomorrow (Wednesday) is the last day of summer break. I want to just have fun and not do anything tomorrow. 
+> So, I don't have any particular notes about these exercises, other than the fact that they went well.
