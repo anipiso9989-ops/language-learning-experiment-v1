@@ -21,6 +21,7 @@
 	- Prompt: "By using the uploaded vocabulary list in the target language, generate 2 different paragraphs in [insert topic of choice, or let the AI choose] for bi-directional translation practice. Ensure that they are appropriate for the level that I am able to speak at. Generate 2 completely different scenarios with different circumstances in the scope of the topic. Do not provide the correct translations, or any vocabulary for assistance. Only provide the 2 paragraphs, noting that the entire exercise should take approximately 15 minutes to complete. After my response, provide me a percentage score as to what my accuracy was, for each passage, and very concisely provide specific information as to what I did wrong. Also, for each passage in your feedback response, provide the correct passage."
 - **Conversation Practice:** Begin with English setup prompts, then transition entirely to the target language.
 - **Comprehensible Input:** Read while listening to synchronized audio; unknown vocabulary is reviewed using LingQ flashcards.
+- **Spacing:** I intentionally always keep Norwegian in the middle of Spanish and French to act as a buffer language, because both of them are similar languages and it can be easy to get mixed up. So, in my sessions, Spanish → Norwegian → French.
 
 # Evaluation
 Assess progress **monthly** (first day of the month) using four quantitative metrics:
