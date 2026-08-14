@@ -222,3 +222,64 @@
 > 1. I am not yet good enough at the languages I'm learning to have a coherent conversation
 > 2. Tomorrow (Wednesday) is the last day of summer break. I want to just have fun and not do anything tomorrow. 
 > So, I don't have any particular notes about these exercises, other than the fact that they went well.
+
+> Thursday, 8/13/26. Today I did 15 min writing for each language. 
+> 
+> For Spanish, I got 78% on Spanish → English, and 62% on English → Spanish. 
+> For Spanish → English, I made these errors:
+> - **"Como agricultor..."**: Translated as _"Like bee farmers"_ (plural). In context, _Como_ means "As" (e.g., _"As a bee farmer..."_).
+> - **"terminan adoloridos"**: Translated as _"stopped sore"_. _Terminan_ means "end up" or "finish" (i.e., _"end up sore"_).
+> - **"una cueva mejor"**: _Mejor_ means "better", not "big" (_grande_).
+> - **"Hoy debo"**: You missed _Hoy_ ("Today") and used _"should"_ instead of _"must"_ or _"have to"_.
+> - **"no acepto"**: Translated as past tense _"didn't accept"_, but _acepto_ is present tense (_"I do not accept"_).
+> - **Untranslated term**: _colmenas de musgo_ $\rightarrow$ **moss hives**.
+> For English → Spanish, I made these errors:
+> - **"se acerca / alrededor del"**: _Acercarse_ requires the reflexive pronoun _se_ (_"se acerca"_). Also, _around the valley_ requires _del_ (_alrededor **del** valle_).
+> - **"necesitan alistarse"**: Do not insert _que_ after _necesitan_ before an infinitive.
+> - **"acabó"**: _Ended_ requires the preterite tense (_acabó_), not the present tense (_acaba_).
+> - **"Planeamos acampar cerca de..."**: _We plan_ is _planeamos_, and _cerca_ requires _de_ (_cerca **de** la cueva_).
+> - *"miel... rara"**: Gender agreement error—_miel_ is feminine (_la miel brillante y **rara**_).
+> - **"Agrado a mi mentora"**: _Agradar_ taking a direct object means "to please someone" (_Agrado a..._). Adding _me_ changes the meaning/structure incorrectly.
+> - **Untranslated terms**:
+> 	- _keepers_ →  **guardianes** / **apicultores**
+> 	- _plan_ → **planeamos**
+> 	- _rush_ → **nos apresuramos**
+> 	- _in_ → **en**
+> 
+> For Norwegian, I got 80% on Norwegian → English, and 45% on English → Norwegian. 
+> For Norwegian → English, I made these errors:
+> - **på et mørkt bad**: Missed translating the preposition/phrase (_"in a dark bathroom / in a dark bath"_).
+> - **på et romskip**: Translated as _"in the spaceship"_ instead of _"on a spaceship"_ (_et_ = _a/an_).
+> - **alt på dette settet var akkurat litt for merkelig**: Translated as _"everyone there at the set was just looking for strange?"_.
+    - alt = _everything_ (not _everyone_).
+    - akkurat litt for merkelig = _just a bit too strange_ (not _looking for strange_).
+> For English → Norwegian I made these errors:
+> - **Preposition choice:** Used om galleriet instead of just galleriet or til galleriet; allergisk på instead of allergisk mot.
+> - **Pronouns / Indefinites:** ikke noe annet $\rightarrow$ ingenting annet (nothing else).
+> - **Verb tense/forms:**
+> 	- var sitt / drikkte / ser $\rightarrow$ satt (was sitting), drakk (drank), så på (watched).
+> - **Gender & Articles:**
+> 	- en varm badt $\rightarrow$ et varmt bad (_bad_ is neuter).
+> 	- Begge en regissoren $\rightarrow$ Både regissøren (_både... og..._ = _both... and..._; drop the article _en_ before definite nouns).
+> 	- en kunstneren $\rightarrow$ den andre kunstneren (_the second artist_).
+> - **Spelling / English Placeholders:** _applesinjuice_ $\rightarrow$ _appelsinjuice_; missing Norwegian words for {while} (_mens_), {after} (_etter_), {hard work} (_hardt arbeid_), and {years} (_år_).
+> 
+> For French, I got 80% on French → English and 45% on English → French. 
+> For French → English, I made these errors:
+> - **Tense Mismatch:** You translated _allume_ and _décide_ in the past tense ("turned on", "decided"). They are present tense: **"turns on"** and **"decides"**.
+> - **Mistranslation (_alors_):** You translated _alors_ as "since". It means **"so"** or **"then"**.
+> - **Number Error (_ce repas_):** You translated _ce repas_ as plural ("these dishes"). It is singular: **"this meal"**.
+> For English → French, I made these errors:
+> - **Verb Conjugation (_aller_):** _Catherine alle_ should be **"Catherine va"** (3rd person singular present tense).
+> - **Elision (_parce que elle_):** Must contract to **"parce qu'elle"**.
+> - **Aspect / Tense (_allait_, _achetait_):** You used the imparfait for completed past actions. Completed single events use the passé composé: **"est allée"** and **"a acheté"**.
+> - **Untranslated Words & False Friends:**
+> 	- _{of clothes}_ $\rightarrow$ **de vêtements**
+> 	- _dress_ $\rightarrow$ "Suit" is **costume** (a _dress_ in English is _une robe_ in French).
+> - Gender & Adjective Placement:**
+> 	- _chat_ is masculine: _sa chat nouvelle_ $\rightarrow$ **son nouveau chat** (adjectives like _nouveau_ precede the noun).
+> 	- _maison_ is feminine: _son maison nouveau_ $\rightarrow$ **sa nouvelle maison**.
+> - **Redundancy & Spelling:** _tres beacoup_ is grammatically incorrect in French (use just **beaucoup**) and misspelled (_beaucoup_). _espere_ is missing an accent (**espère**).
+
+
+> Friday, 8/14/26. I'm still not good enough to have actual speaking conversations at a good enough level, so I just did LingQ short stories, 15 min per language. No specific notes, but my auditory understanding is becoming better.
