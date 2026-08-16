@@ -283,3 +283,5 @@
 
 
 > Friday, 8/14/26. I'm still not good enough to have actual speaking conversations at a good enough level, so I just did LingQ short stories, 15 min per language. No specific notes, but my auditory understanding is becoming better.
+
+> Saturday, 8/15/26. Today I did LingQ general practice, 45 min sessions per language. However, I made the mistake of forgetting that I needed to do the 45 minute French session, and so I only did sessions for Spanish and Norwegian.
