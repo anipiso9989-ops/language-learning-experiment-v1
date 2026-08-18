@@ -287,3 +287,48 @@
 > Saturday, 8/15/26. Today I did LingQ general practice, 45 min sessions per language. However, I made the mistake of forgetting that I needed to do the 45 minute French session, and so I only did sessions for Spanish and Norwegian.
 
 > Sunday, 8/16/26. No specific notes. Session went as expected, making steady progress.
+
+> Monday, 8/17/26. 
+> 
+> On Spanish, I got 80% on Spanish → English, and 55% on English → Spanish. 
+> For Spanish → English, I made these errors:
+> - **Tense shift (_es_ / _están_):** "el ambiente es" translates to "the environment **is**" and "están adoloridos" translates to "my muscles **are** sore" (present tense, not past).
+> - **Vocabulary context (_tienda_):** In a camping context, _tienda_ means **tent**, not store.
+> - **Adverb translation (_pronto_):** _Pronto_ means **soon**, rather than immediately.
+> For English → Spanish, I made these errors:
+> - **Spelling & Accents:** _anes_ $\rightarrow$ **años**; missing written accents on **también**, **difíciles**, **así**, **situación**, and **amó**.
+> - **Prepositions:** "For years" $\rightarrow$ **durante/por años**; "to acquire" $\rightarrow$ **para adquirir**; "thought about renting" $\rightarrow$ **pensaron en alquilar** (use _pensar en_ for thinking about an activity).
+> - **Gender Agreement:** _un casa_ $\rightarrow$ **una casa**; _ambos opciones_ $\rightarrow$ **ambas opciones**; _el situacion_ $\rightarrow$ **la situación**.
+> - **Verb form & Pronouns:** _ellos decio_ $\rightarrow$ **les dijo** (past tense of _decir_ for "he told them").
+> - **Vocabulary choice:** For "farmer", your vocabulary list specifically used **agricultor**.
+> 
+> On Norwegian, I got 70% on Norwegian → English, and 65% on English → French.
+> On Norwegian → English, I made these errors:
+> - **"et par actionfilmer"**: You translated this as _"action film shoes??"_. In Norwegian, _et par_ means "a couple of" or "a few" in this context, so the correct meaning is _"a couple of action movies"_ (not shoes).
+> - **"den andre filmen"**: Translated as _"another movie"_, but _den andre filmen_ refers specifically to _"the other movie"_ or _"the second movie"_.
+> - **Phrasing/Grammar**: _"He thinks to take"_ should be _"He is thinking about taking"_ (_tenker på å_ = thinking about), and _"because he always is tired"_ should follow natural English word order (_"because he is always tired"_).
+> On English → Norwegian, I made these errors:
+> - **Spelling & Characters**: _akkurrat_ $\rightarrow$ **akkurat**; missing special characters (_pa_ $\rightarrow$ **på**, _atte_ $\rightarrow$ **åtte**, _nar_ $\rightarrow$ **når**).
+> - **Prepositions**: Used _ankom om restauranten_ instead of **ankom restauranten**; used _allergisk pa_ instead of **allergisk mot**.
+> - **Verb Usage**: Used _ba appelsinjuice_ instead of **ba om appelsinjuice** (_å be om_ = to ask for / request). Used _sa_ (said) instead of **så** (saw). Used _ga_ (gave) instead of **går** (go).
+> 
+> On French, I got 55% on English → French, and 70% on French → English. 
+> On French → English, I made these mistakes:
+> - **Skipped/Unfinished Clause:** `"Michel a congé pendant l'hiver"` was skipped ($\rightarrow$ _Michel has time off / is on leave during winter_).
+> - **Vocabulary Misinterpretation:** `"et il espère déménager"` was translated as `"and he waits to..."` ($\rightarrow$ _espérer_ means **to hope**, and _déménager_ means **to move**).
+> - **Omitted Specificity:** `"magasin de vêtements"` was simplified to `"store"` ($\rightarrow$ **clothing store**).
+> - **Tense Misalignment:** `"lui allait"` is past imperfect (_fit him / looked good on him_), rather than present (_looks_).
+> On English → French, I made these mistakes:
+> - **English placeholders left untranslated:**
+> 	- `{wakes up}` $\rightarrow$ **se lève**
+> 	- `{to listen}` $\rightarrow$ **pour écouter**
+> 	- `{some vegetables}` $\rightarrow$ **des légumes**
+> 	- `{does not know where}` $\rightarrow$ **ne sait pas où**
+> 	- `{or}` $\rightarrow$ **ou**
+> - **Grammar & Gender Mistakes:**
+> 	- **tres / a / decide** $\rightarrow$ missing accents: **très**, **à**, **décide**
+> 	- **le radio** $\rightarrow$ _radio_ is feminine: **la radio**
+> 	- **au musique** $\rightarrow$ should be **de la musique**
+> 	- **decide aller** $\rightarrow$ requires the preposition _de_: **décide d'aller**
+> 	- **une costume** $\rightarrow$ _costume_ is masculine: **un costume**
+> 	- **son amies affames** $\rightarrow$ plural possessive and agreement needed: **ses amies affamées** (or **ses amis affamés**)
